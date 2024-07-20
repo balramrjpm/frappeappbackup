@@ -1,0 +1,9 @@
+{
+ "db_host": "localhost",
+ "db_name": "frappe",
+ "db_password": "xwZIjcQG1OvIuZnC",
+ "db_port": 5432,
+ "db_type": "postgres",
+ "developer_mode": 1,
+ "encryption_key": "3sbvuwxIMCMmKYy6JZHueQKuYsiGpRT4m1rRvpEgQic="
+}
